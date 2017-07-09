@@ -15,5 +15,4 @@ Hamming.prototype.compute = function(strand1, strand2) {
     return distance;
 };
 
-
 module.exports = Hamming;
